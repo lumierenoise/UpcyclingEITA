@@ -1,0 +1,6 @@
+id,tipo_residuo,quantidade_kg,localizacao,destino_previsto
+1,Plástico,100,Recife,Reciclagem
+2,Metal,50,Olinda,Reciclagem
+3,Vidro,30,Recife,Reciclagem
+4,Papel,200,Jaboatão,Upcycling
+5,Orgânico,500,Recife,Compostagem

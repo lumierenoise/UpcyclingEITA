@@ -1,0 +1,6 @@
+id,tipo_residuo,quantidade_kg,localizacao,destino_previsto,tipo_residuo_encoded,localizacao_encoded,cluster
+1,Plástico,100,Recife,Reciclagem,3,2,1
+2,Metal,50,Olinda,Reciclagem,0,1,2
+3,Vidro,30,Recife,Reciclagem,4,2,1
+4,Papel,200,Jaboatão,Upcycling,2,0,2
+5,Orgânico,500,Recife,Compostagem,1,2,0
